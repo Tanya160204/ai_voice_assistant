@@ -1,0 +1,5 @@
+Flask
+google-generativeai
+SpeechRecognition
+gTTS
+langdetect
