@@ -8,7 +8,7 @@ import os
 app = Flask(__name__)
 
 # Gemini 2.5 Flash config
-genai.configure(api_key="AIzaSyCWLlP3WPVwInwn7MAHj3ujgOlpPav83Qk")
+genai.configure(api_key="your-api-key-here")
 model = genai.GenerativeModel("models/gemini-1.5-flash")
 
 @app.route('/')
