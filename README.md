@@ -1,4 +1,3 @@
-Here's a complete and professional `README.md` file for your AI Voice Calling Assistant prototype using Flask, Gemini 1.5 Flash, Speech Recognition, and gTTS:
 
 ---
 
@@ -102,4 +101,3 @@ MIT License
 
 ---
 
-Let me know if you'd like me to generate the `index.html` template as well!
